@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Adil Shehzad](#), a Full Stack Developer 🚀 from Pakistan PK, 
+Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack Developer 🚀 from Pakistan PK, 
 
   <img align="right" alt="GIF" src="https://github.com/adilshehzad786/adilshehzad786/blob/main/code.gif" width="500" height="320" />
   
