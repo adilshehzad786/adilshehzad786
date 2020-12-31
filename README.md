@@ -12,7 +12,7 @@ Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning MultiCloud Networking ; 
+- 🌱 I’m currently learning MultiCloud Networking
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adilshehzad7/)
 - 📝[Resume](https://www.linkedin.com/in/adilshehzad7/)
