@@ -17,10 +17,10 @@ Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adilshehzad7/)
 - 📝[Resume](https://www.linkedin.com/in/adilshehzad7/)
 
-
+<details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adilshehzad786&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-
+</details>
 
