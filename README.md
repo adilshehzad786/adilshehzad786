@@ -7,8 +7,7 @@
 
 Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack Developer, MultiCloud Expert , GitHub Campus Expert 🚀 from Pakistan PK, 
 
-  <img align="right" alt="GIF" src="https://github.com/adilshehzad786/adilshehzad786/blob/main/code.gif" width="500" height="320" />
-  
+   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -16,6 +15,10 @@ Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adilshehzad7/)
 - 📝[Resume](https://www.linkedin.com/in/adilshehzad7/)
+
+### My Blogs
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0" alt="Recent Article 0"> 
 
 <details>
 <summary>📈 My GitHub Stats</summary>
