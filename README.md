@@ -20,7 +20,7 @@ Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/2" alt="Recent Article 0"> 
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/7" alt="Recent Article 0"> 
 
 <details>
 <summary>📈 My GitHub Stats</summary>
