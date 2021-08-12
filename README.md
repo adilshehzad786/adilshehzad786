@@ -14,13 +14,13 @@ Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack 
 - 🌱 I’m currently learning CloudNative, RedHat & AWS Machine Learning
 - 💬 Ask me about anything, I am happy to help : [Need Help?](https://www.linkedin.com/in/adilshehzad7/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adilshehzad7/)
-- 📝[My Resume](https://github.com/adilshehzad786/adilshehzad786/blob/main/Adil%20Shehzad%20GitHub.pdf)
+- 📝[My Resume](https://github.com/adilshehzad786/adilshehzad786/blob/main/Adil%20Shehzad%20Resume%20.pdf)
 
 ### My Blogs
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/2" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0" alt="Recent Article 0"> 
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/7" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1" alt="Recent Article 0"> 
 
 <details>
 <summary>📈 My GitHub Stats</summary>
