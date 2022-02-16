@@ -11,7 +11,7 @@ Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning CloudNative, RedHat & AWS Machine Learning
+- 🌱 I’m currently learning CloudNative, RedHat, AWS & GitOps
 - 💬 Ask me about anything, I am happy to help : [Need Help?](https://www.linkedin.com/in/adilshehzad7/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adilshehzad7/)
 - 📝[My Resume](https://github.com/adilshehzad786/adilshehzad786/blob/main/Adil's%20Resume.pdf)
