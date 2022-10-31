@@ -1,29 +1,37 @@
-### My GitHub Visitors
-![](https://visitor-badge.glitch.me/badge?page_id=adilshehzad786)
+# My GitHub Intro
 
-<br />
+A skillful DevOps Engineer/SRE with a passion for architecting cloud solutions. Adil is a Multi-Cloud Certified:
 
-Hi, I'm [Adil Shehzad](https://www.linkedin.com/in/adilshehzad7/), a Full Stack Developer, MultiCloud Expert , GitHub Campus Expert 🚀 from Pakistan PK, 
+● Working experience on `AWS`, `Azure`, `Google Cloud`, and `on-premises`, architect highly available, scalable, and fault-tolerant architectural solutions for clients to help them migrate successfully from current infrastructure (on-premise) to AWS cloud or set up from scratch on AWS.
 
-   
-**Talking about Personal Stuffs:**
+● Highly motivated and committed DevOps experienced in Automating, Configuring, and deploying instances on AWS and on-premises.
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning CloudNative, RedHat, AWS & GitOps
-- 💬 Ask me about anything, I am happy to help : [Need Help?](https://www.linkedin.com/in/adilshehzad7/)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adilshehzad7/)
+● Strong knowledge and skills in AWS Architecture Design, especially in Production, Development, and Testing environments.
 
+● Solid experience in all the software development life cycle phases starting from requirement gathering, analysis, design, coding, implementation, and support.
 
-### My Blogs
+● Solid Grip on AWS Infrastructure, holding two AWS Certifications (AWS Cloud Practitioner & AWS Developer Associate).
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0" alt="Recent Article 0"> 
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1" alt="Recent Article 0"> 
+● Solid Experience in Version Controlling, Git, GitHub, Azure DevOps, and GitLab.
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+● Solid Experience in CI/CD and expertise in Jenkins, GitHub Actions Azure DevOps CI/CD, Circle CI, Teamcity, GitLab CI, and Octopus Deploy.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adilshehzad786&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+● Strong Experience in Scripting with Bash, PowerShell & Python.
 
-</details>
+● Strong Experience with Container Orchestration, including Kubernetes, Docker & Pod man.
 
+● Proficient experience in Infrastructure as code using Terraform, Ansible, CDK, and Cloud Operation/Toils automation using Python and NodeJS for AWS, on-premises.
+
+● Monitoring and Observability implementation for AWS, Azure, and on-premise infrastructure/containers orchestration.
+
+● Solid Experience in DevOps Security, machines security patching and finding loopholes to better the organization’s security.
+
+<a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0](https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0)"><img src="[https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0](https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0)" alt="Recent Article 0">
+
+<a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1](https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1)"><img src="[https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1](https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1)" alt="Recent Article 0">
+
+🚀 In the short run, my objective is to build solid experience in cloud/software architecture, cloud infrastructure, site reliability, cloud security, and software development.
+
+✨ I speak at AWS October Open Mic, Google Developer Group, and 10 Pearls International DevOps Conference. I am inspiring the Young generations to pursue DevOps, with tech Blogs, Videos, Events, and Conferences.
+
+🏋️ I am always open to new ideas and opportunities. Please reach out to me directly on [LinkedIn](https://www.linkedin.com/in/adilshehzad7/).
