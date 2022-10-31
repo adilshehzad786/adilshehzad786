@@ -26,10 +26,11 @@ A skillful DevOps Engineer/SRE with a passion for architecting cloud solutions. 
 
 ● Solid Experience in DevOps Security, machines security patching and finding loopholes to better the organization’s security.
 
-![Adil's blog](https://github-read-medium.vercel.app/latest?username=adilshehzad786&limit=2&theme=nord)
-
 🚀 In the short run, my objective is to build solid experience in cloud/software architecture, cloud infrastructure, site reliability, cloud security, and software development.
 
 ✨ I speak at AWS October Open Mic, Google Developer Group, and 10 Pearls International DevOps Conference. I am inspiring the Young generations to pursue DevOps, with tech Blogs, Videos, Events, and Conferences.
 
 🏋️ I am always open to new ideas and opportunities. Please reach out to me directly on [LinkedIn](https://www.linkedin.com/in/adilshehzad7/).
+
+
+![Adil's blog](https://github-read-medium.vercel.app/latest?username=adilshehzad786&limit=4&theme=nord)
