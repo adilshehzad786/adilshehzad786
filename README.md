@@ -26,9 +26,7 @@ A skillful DevOps Engineer/SRE with a passion for architecting cloud solutions. 
 
 ● Solid Experience in DevOps Security, machines security patching and finding loopholes to better the organization’s security.
 
-<a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0](https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0)"><img src="[https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0](https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/0)" alt="Recent Article 0">
-
-<a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1](https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1)"><img src="[https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1](https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/1)" alt="Recent Article 0">
+![Adil's blog](https://github-read-medium.vercel.app/latest?username=adilshehzad786&limit=1&theme=nord)
 
 🚀 In the short run, my objective is to build solid experience in cloud/software architecture, cloud infrastructure, site reliability, cloud security, and software development.
 
