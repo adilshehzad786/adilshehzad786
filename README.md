@@ -1,5 +1,3 @@
-# My GitHub Intro
-
 A skillful DevOps Engineer/SRE with a passion for architecting cloud solutions. Adil is a Multi-Cloud Certified:
 
 ● Working experience on `AWS`, `Azure`, `Google Cloud`, and `on-premises`, architect highly available, scalable, and fault-tolerant architectural solutions for clients to help them migrate successfully from current infrastructure (on-premise) to AWS cloud or set up from scratch on AWS.
