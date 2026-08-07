@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/adilshehzad786/adilshehzad786/main/banner.png" alt="Ship faster. Pass the audit." width="100%">
+<img src="https://raw.githubusercontent.com/adilshehzad786/adilshehzad786/main/github-banner-blue-2560x640_1.png" alt="Ship faster. Pass the audit." width="100%">
 
 ### Senior DevOps & DevSecOps Engineer — cloud security & compliance for regulated fintech
 
