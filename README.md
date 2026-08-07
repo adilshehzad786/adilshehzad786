@@ -1,34 +1,44 @@
-A skillful DevOps Engineer/SRE with a passion for architecting cloud solutions. Adil is a Multi-Cloud Certified:
+<img src="https://raw.githubusercontent.com/adilshehzad786/adilshehzad786/main/banner.png" alt="Ship faster. Pass the audit." width="100%">
 
-● Working experience on `AWS`, `Azure`, `Google Cloud`, and `on-premises`, architect highly available, scalable, and fault-tolerant architectural solutions for clients to help them migrate successfully from current infrastructure (on-premise) to AWS cloud or set up from scratch on AWS.
+### Senior DevOps & DevSecOps Engineer — cloud security & compliance for regulated fintech
 
-● Highly motivated and committed DevOps experienced in Automating, Configuring, and deploying instances on AWS and on-premises.
+I build cloud infrastructure and then defend it. Currently founding engineer on a SAMA-regulated payments platform, where I own the GCP estate end to end — Terraform, Kubernetes, CI/CD, SIEM detections, and the compliance evidence behind all of it.
 
-● Strong knowledge and skills in AWS Architecture Design, especially in Production, Development, and Testing environments.
+Before that, five years of DevSecOps delivery across banking, healthcare and telecom on AWS, Azure and GCP.
 
-● Solid experience in all the software development life cycle phases starting from requirement gathering, analysis, design, coding, implementation, and support.
+---
 
-● Solid Grip on AWS Infrastructure, holding two AWS Certifications (AWS Cloud Practitioner & AWS Developer Associate).
+### What I work on
 
-● Solid Experience in Version Controlling, Git, GitHub, Azure DevOps, and GitLab.
+**Assess** — cloud, pipeline and Kubernetes reviewed against production and audit standards
+**Implement** — security enforced as a gate, infrastructure defined in code, clusters that hold up under load
+**Advise** — ongoing architecture and posture review for teams not ready to hire it full time
 
-● Solid Experience in CI/CD and expertise in Jenkins, GitHub Actions Azure DevOps CI/CD, Circle CI, Teamcity, GitLab CI, and Octopus Deploy.
+---
 
-● Strong Experience in Scripting with Bash, PowerShell & Python.
+### Selected work
 
-● Strong Experience with Container Orchestration, including Kubernetes, Docker & Pod man.
+| | |
+|---|---|
+| [**www-project-eks-goat**](https://github.com/adilshehzad786/www-project-eks-goat) | OWASP project — contributed region-aware EKS cleanup |
+| [**postgres-gist-500m-lab**](https://github.com/adilshehzad786/postgres-gist-500m-lab) | GiST index behaviour at 500M rows, measured and written up |
+| [**AWS-DevOps-Professional**](https://github.com/adilshehzad786/AWS-DevOps-Professional) | Study notes for the AWS DevOps Pro certification |
+| [**Study-guide-AZ-400**](https://github.com/adilshehzad786/Study-guide-AZ-400) | Same, for the Microsoft DevOps Engineer track |
+| [**Getting-Started-with-GitHub-Actions**](https://github.com/adilshehzad786/Getting-Started-with-GitHub-Actions) | Practical walkthrough of Actions workflows |
+| [**Terraform-Using-AWS**](https://github.com/adilshehzad786/Terraform-Using-AWS) | Terraform patterns for AWS infrastructure |
 
-● Proficient experience in Infrastructure as code using Terraform, Ansible, CDK, and Cloud Operation/Toils automation using Python and NodeJS for AWS, on-premises.
+---
 
-● Monitoring and Observability implementation for AWS, Azure, and on-premise infrastructure/containers orchestration.
+### Stack
 
-● Solid Experience in DevOps Security, machines security patching and finding loopholes to better the organization’s security.
+`GCP` `AWS` `Azure` `Kubernetes` `Terraform` `GitHub Actions` `Azure DevOps`
+`Splunk` `Cloud Armor` `Trivy` `Checkov` `CodeQL` `PostgreSQL` `Python`
 
-🚀 In the short run, my objective is to build solid experience in cloud/software architecture, cloud infrastructure, site reliability, cloud security, and software development.
+### Certifications
 
-✨ I speak at AWS October Open Mic, Google Developer Group, and 10 Pearls International DevOps Conference. I am inspiring the Young generations to pursue DevOps, with tech Blogs, Videos, Events, and Conferences.
+CKA · AWS DevOps Engineer – Professional · HashiCorp Terraform Associate · Google Cloud Associate Cloud Engineer · Microsoft AZ-400 · Microsoft SC-200 · GitLab Certified Associate
 
-🏋️ I am always open to new ideas and opportunities. Please reach out to me directly on [LinkedIn](https://www.linkedin.com/in/adilshehzad7/).
+---
 
-
-![Adil's blog](https://github-read-medium.vercel.app/latest?username=adilshehzad786&limit=4&theme=nord)
+**Work with me** → https://calendar.app.google/wZ7oWYSwhsX4sz7S6
+**LinkedIn** → [in/adilshehzad7](https://linkedin.com/in/adilshehzad7)
